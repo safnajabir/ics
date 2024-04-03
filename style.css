@@ -1,0 +1,271 @@
+.header
+{
+    height:100px;
+    width :100%;
+    background-color:blue ;
+}
+.header > img
+{
+    height:100px;
+    margin-left: 50px;
+}
+.online
+{
+    margin-left: 300px;
+    margin-top: -80px;
+    border:solid;
+    width: 130px;
+    background-color: aqua;
+    border-radius: 10px;
+    height: 40px;
+    padding: 10px;
+    font-weight: bold;
+    color: white;
+}
+.email
+{
+    margin-left: 500px;
+    margin-top:-50px ;
+    color: white;
+    font-weight: bold;
+}
+.call
+{
+    margin-left:750px;
+    margin-top: -70px;
+    border-style: solid;
+    background-color:red;
+    width: 100px;
+    border-radius: 10px;
+    text-align: center;
+    color: white;
+}
+.phone
+{
+    margin-left: 900px; 
+    margin-top: -50px;
+    color: white;
+    font-weight: bold;
+}
+.menu
+{
+    margin-top: 80px;
+}
+.menu > ul > li
+{
+    display: inline;
+    margin-right: 42px;
+    font-weight: bold;
+}
+.slide
+{
+    height: 300px;
+    width: 100%;
+    background-color: brown;
+}
+.box1
+{
+    height: 300px;
+    width: 280px;
+    background-color: chartreuse;
+    margin-top: -18px;
+}
+.box2
+{
+    height:300px ;
+    width: 280px;
+    margin-left:280px ;
+    margin-top: -318px;
+    background-color: green;
+}
+.box3
+{
+    height: 300px;
+    width:280px ;
+    margin-left: 560px;
+    margin-top:-318px ;
+    background-color: cornflowerblue;
+}
+.box4
+{
+    height: 300px;
+    width: 280px;
+    margin-left: 840px;
+    margin-top: -318px;
+    background-color: darkcyan;
+}
+.box1, .box2, .box3, .box4 > h3
+{
+    color: white;
+    text-align: center;
+}
+.box1, .box2, .box3, .box4 > p
+{
+    color: white;
+    text-align: center;
+    line-height: 30px;
+}
+hr 
+{
+    width: 100px;
+    height: 2px;
+    border-color: white;
+    border-style: solid;
+}
+.img > img
+{
+    height: 400px;
+    width: 400px;
+    margin-left: 50px;
+    margin-top: 50px;
+}
+.data
+{
+    margin-left: 500px;
+    margin-top: -400px;
+}
+.data > p
+{
+    line-height: 20px;
+}
+.more, .more2
+{
+    background-color: blue;
+    color: white;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+    margin-left: 600px;
+    padding-top: 20px;
+}
+.more2
+{
+    margin-left: 800px;
+    margin-top:-60px;
+}
+.choose
+{
+    height: 400px;
+    width: 100%;
+    background-color: blue;
+    color: white;
+}
+.ics 
+ {
+ width: 600px;
+ line-height: 20px;
+ }
+ .form
+ {
+    margin-left:650px;
+    margin-top: -400px;
+    color: white;
+    font-weight: bold;
+ }
+.form > input 
+{
+    width: 300px;
+    height: 40px;
+}
+.form > button
+{
+    background-color: green;
+    border-radius: 10px;
+    color: white;
+    width: 100px;
+    height: 40px;
+    margin-top: 10px;
+}
+.course
+    {
+        height: 200px;
+    }
+.swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+  .swiper-slide {
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .swiper-slide img {
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+.btn 
+{
+    float: right;
+    margin-right: 100px;
+    background-color: blue;
+    color: green;
+    height: 40px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+ .data1
+{
+    width: 100%;
+    background-color: blue;
+    height: 300px;
+    margin-top: 30px;
+    margin-left: -0px;
+}          
+.data1
+{
+    color: white;
+}
+.data1 > h1
+{
+    color: white;
+    margin-left: 100px;
+    margin-top: 10px;
+}
+.two 
+{
+    margin-left: 300px;
+    margin-top: -100px;
+
+}
+.three
+{
+    margin-left:600px;
+    margin-top: -100px;
+}
+.four
+{
+    margin-left: 900px;
+    margin-top: -100px;
+}
+.footer
+{
+    background-color: white;
+    width: 100%;
+    height: 100px;
+    color: black;
+    padding-top: 20px;
+}
+.social
+
+{
+    float:right;
+    margin-right: 100px;
+}
